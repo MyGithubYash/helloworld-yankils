@@ -77,9 +77,11 @@
 
 </form>
 
-<h1 style="text-align: center; margin-top: 50px;">Thank you for visiting the page</h1>
+<h1 style="text-align: center; margin-top: 50px;">This is the landing page</h1>
 
 <h1 style="text-align: center; margin-top: 50px;">TORONTO, CANADA</h1>
+
+<h1 style="text-align: center; margin-top: 50px;"><i class="fas fa-check-circle"></i> Thank you</h1>
 
 </body>
 </html>
