@@ -77,7 +77,7 @@
 
 </form>
 
-<h1 style="text-align: center; margin-top: 50px;">Thank you, Happy Learning</h1>
+<h1 style="text-align: center; margin-top: 50px;">Thank you for visiting the page</h1>
 
 </body>
 </html>
