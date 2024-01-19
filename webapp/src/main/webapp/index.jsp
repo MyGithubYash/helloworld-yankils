@@ -77,7 +77,7 @@
 
 </form>
 
-<h1 style="text-align: center; margin-top: 50px;">This is the landing page of my website</h1>
+<h1 style="text-align: center; margin-top: 50px;">landing home page of my website</h1>
 
 <h1 style="text-align: center; margin-top: 50px;">TORONTO, CANADA</h1>
 
