@@ -79,7 +79,7 @@
 
 <h1 style="text-align: center; margin-top: 50px;">landing page for the website</h1>
 
-<h1 style="text-align: center; margin-top: 50px;">TORONTO, CANADA</h1>
+<h1 style="text-align: center; margin-top: 50px;"> TORONTO </h1>
 
 <h1 style="text-align: center; margin-top: 50px;"><i class="fas fa-check-circle"></i> Thank you</h1>
 
